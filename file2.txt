@@ -1,1 +1,1 @@
-Testing cherry pick in branch1
+Testing cherry pick from branch1
